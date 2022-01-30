@@ -1,4 +1,4 @@
-![](https://yt3.ggpht.com/a/AATXAJy1v845mUNPL1OW_YMVH6oQO-JIKDzbb88o7w2S=s900-c-k-c0xffffffff-no-rj-mo)
+![](https://i.imgur.com/jpT8Ib1h.jpg)
 
 🇺🇸 🇬🇧
 I am a beginner python developer. I'm 17 years old.It contains all my projects, from the first day of training. For convenience, I have scattered all this into separate convenient repositories. Maybe someone will be interested
